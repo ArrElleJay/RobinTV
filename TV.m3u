@@ -94,7 +94,7 @@ https://tvpass.org/live/CSPAN2/sd
 #EXTINF:-1 channel-number="73" tvg-chno="73" tvg-id="fuse-tv-eastern-feed" tvg-name="73 FUSE TV Eastern feed" group-title="03 Entertainment",73 Fuse
 https://tvpass.org/live/FuseEast/sd
 #EXTINF:-1 channel-number="79" tvg-chno="79" tvg-id="QVC.us" tvg-name="79 QVC" group-title="09 Shopping",79 QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/qvc/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 channel-number="81" tvg-chno="81" tvg-id="oxygen-eastern-feed" tvg-name="81 Oxygen Eastern Feed" group-title="03 Entertainment",81 Oxygen True Crime
 https://tvpass.org/live/OxygenEast/sd
 #EXTINF:-1 channel-number="83" tvg-chno="83" tvg-id="independent-film-channel-us" tvg-name="83 Independent Film Channel US" group-title="05 Movies",83 IFC
